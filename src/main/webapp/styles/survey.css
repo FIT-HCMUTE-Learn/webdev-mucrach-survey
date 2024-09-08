@@ -1,0 +1,31 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    color: #039b9b;
+    font-weight: bold;
+}
+
+h4 {
+    color: #039b9b;
+    font-weight: bold;
+}
+
+.logo {
+    margin-top: 10px;
+}
+
+.infor-title {
+    font-weight: bold;
+    flex: 0 0 150px;
+}
+
+.contact-title {
+    flex: 0 0 150px;
+}
+
+.thanks-title {
+    margin-top: 30px;
+}
